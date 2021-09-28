@@ -725,4 +725,7 @@
         Verhindert, dass diese Anwendung im Launcher angezeigt wird. Erfordert einen Launcher-Neustart, damit die Änderungen wirksam werden.
     </string>
 
+    <string name="hide">Ausblenden</string>
+    <string name="unhide">Einblenden</string>
+
 </resources>
