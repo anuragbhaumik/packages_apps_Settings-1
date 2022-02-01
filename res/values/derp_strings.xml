@@ -528,4 +528,9 @@
     <string name="dialog_delete_message">Remove selected item?</string>
     <string name="dialog_delete_title">Delete</string>
 
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Gesture navbar radius</string>
+    <string name="thin_label">Thin</string>
+    <string name="thick_label">Thick</string>
+
 </resources>
