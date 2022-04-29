@@ -98,6 +98,10 @@ public class GestureNavigationSettingsFragment extends DashboardFragment {
                 Settings.System.ENABLE_TASKBAR, isTablet(getContext()) ? 1 : 0) == 1;
         if (isTaskbarEnabled) {
             getPreferenceScreen().removePreference(
+                    getPreferenceScreen().findPreference(GESTURE_NAVBAR_LENGTH_KEY));
+            getPreferenceScreen().removePreference(
+                    getPreferenceScreen().findPreference(GESTURE_NAVBAR_RADIUS_KEY));
+            getPreferenceScreen().removePreference(
                     getPreferenceScreen().findPreference(NAVIGATION_BAR_HINT_KEY));
         }
     }
