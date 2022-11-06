@@ -394,7 +394,7 @@
     <string name="ring_volume_unlinked_option_title">Ring volume</string>
 
     <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
-    <string name="wallpaper_dashboard_custom_summary">Colors, themed icons, app grid</string>
+    <string name="wallpaper_dashboard_custom_summary">Colors, themed icons, app grid, system font</string>
 
     <!-- Summary for list to control apps that ignore battery saving restrictions -->
     <string name="high_power_apps_summary">Battery optimization availability</string>
