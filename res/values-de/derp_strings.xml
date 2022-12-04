@@ -740,4 +740,7 @@
     <!-- Text shown for the description of the panic option -->
     <string name="power_menu_panic_summary">Aktiviert einen Notfall-Panikauslöser.</string>
 
+    <!-- Screen resolution -->
+    <string name="custom_screen_resolution_title">Benutzerdefinierte Bildschirmauflösung</string>
+
 </resources>
